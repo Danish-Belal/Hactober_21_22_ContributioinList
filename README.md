@@ -14,9 +14,12 @@ This README file will contain my  all merged PRs  for Open Source and HactoberFe
 4. https://github.com/IndianOpenSourceFoundation/hello-hacktober/pull/83#event-5543496645 [Meta Tags , Media Queries , Flex Box , CSS]
 5. https://github.com/IndianOpenSourceFoundation/hello-hacktober/pull/84#event-5580912213 [Animation , Transformation , Translation]
 
-## 2. Games And Website Template.
+## 3. Games And Website Template.
 1. https://github.com/Manish1Gupta/Coding-Community-Contributions/pull/115#event-7623461357   [Tic Tac Toe Game in java]
 2. https://github.com/Diptenusarkar/Website-Template/pull/192#event-7636242162  [Brick Breaker Game]
+
+## 4. Learning Resources.
+1. https://github.com/firstcontributions/first-contributions/pull/59047 [Complete Git and Github vedio] by https://github.com/kunal-kushwaha Kunal Kushwaha.
 
 
 Many more to come.
